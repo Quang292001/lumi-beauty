@@ -4,6 +4,8 @@
 
 > A cross-platform cosmetics e-commerce app built with Flutter: REST API integration, JWT auth, SQLite persistence, Provider state management, infinite scroll and unit/widget tests.
 
+**Demo online (bản web):** https://quang292001.github.io/lumi-beauty/ · đăng nhập bằng nút "Dùng tài khoản demo"
+
 ## Tính năng
 
 | Màn hình | Chức năng |
