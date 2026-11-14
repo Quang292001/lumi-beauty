@@ -32,3 +32,6 @@ ios/Flutter/flutter_export_environment.sh
 # Misc
 .DS_Store
 *.log
+
+# Claude Code local config
+.claude/
